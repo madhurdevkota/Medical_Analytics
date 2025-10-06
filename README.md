@@ -9,7 +9,7 @@ This project analyzes healthcare revenue cycle performance using Python, Pandas,
 
 📊 Project Overview
 
-The dashboard and models offer a full 360° view of the healthcare revenue process — from billing and collections to denials and write-offs.
+The dashboard and models offer a full 360° view of the healthcare revenue process - from billing and collections to denials and write-offs.
 Key objectives:
 
 Track financial KPIs like Collection Rate, Write-off %, and Cost-to-Collect.
